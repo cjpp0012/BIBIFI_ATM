@@ -1,0 +1,6 @@
+# Executables and object files
+*.o
+atm
+bank
+*.card
+*.auth
